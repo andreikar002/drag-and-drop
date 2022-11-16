@@ -15,7 +15,7 @@ export default {
   // name: "smt",
   data() {
     return {
-      links: [{ id: 1, title: 'first-drag-and-drop', href: '/first' }],
+      links: [{ id: 1, title: 'first-drag-and-drop', href: '/first' }, { id: 2, title: 'third-drag-and-drop', href: '/third-drag-and-drop' }],
     }
   },
 }
